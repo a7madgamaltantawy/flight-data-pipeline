@@ -153,7 +153,13 @@ Future improvements:
 * Add dashboard (Power BI or similar)
 
 ---
+## Inspiration
 
+This project is inspired by real-world experience in telemetry systems, system integration, and data validation in industrial and aviation environments.
+
+It demonstrates how such systems can be translated into modern data engineering pipelines using a lakehouse architecture.
+
+---
 ## 👨‍💻 Author
 
 Ahmed Tantawy
